@@ -93,8 +93,8 @@ int game(std::string input){
         printw(intToStr(score));
         printw("\n");
         if (dcnt == 0) printw(draw_dot(x_enemy, y_enemy, "K"));
-        printw("\n du bist tot zum beenden STRG+C Druecken");
-        if(score > 10) printw(" Du warst gut (:");
+        printw("\n you are dead please press CNTRL+C");
+        if(score > 10) printw(" you are good (:");
         dcnt=1;
         return 0;
     }
