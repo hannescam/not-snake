@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/hannescam/not-snake/total)
 # not-snake
 a snake clone with c++ and you cant get longer
 - a snake but there is a enemy and you cant grow
